@@ -10,7 +10,7 @@
 import "github.com/conneroisu/mathpix-go"
 ```
 
-Package api contains the main entry point for the pegwings.ai API.
+Package api contains the main entry point for the mathpix-go API.
 
 ## Index
 
